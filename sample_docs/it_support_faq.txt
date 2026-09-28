@@ -1,0 +1,16 @@
+Northwind Tech (fictional) - IT Support FAQ
+
+How do I reset my password?
+Go to the self-service portal and choose "Forgot password". A reset link is sent to your registered phone number. Passwords must be at least 14 characters long and are changed every 180 days.
+
+How do I connect to the VPN?
+Install the company VPN client from the software centre, sign in with your work account and approve the multi-factor authentication prompt. The VPN is required to reach internal databases and the HR portal from outside the office.
+
+How do I report a phishing email?
+Use the "Report phishing" button in your email client. Do not click links or open attachments in the suspicious message. The security team reviews every report within four hours.
+
+How do I get software installed?
+Request software through the service desk. Approved software is installed within two working days. Software that stores company data must be reviewed by the security team first.
+
+What are the IT support hours?
+The service desk is open from 07:30 to 18:00 on weekdays. For urgent outages outside these hours, call the on-call engineer.
